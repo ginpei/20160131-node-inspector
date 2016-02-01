@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "node-inspector": "^0.12.5"
+  }
+}
