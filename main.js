@@ -3,14 +3,14 @@
 // Run:
 //
 // ```
-// $ node --debug main.js
 // $ ./node_modules/.bin/node-inspector --port 8008
+// $ node --debug main.js
 // ```
 //
 // Access:
 //
-// - http://127.0.0.1:3000/version (Any Browsers)
-// - http://127.0.0.1:8008/?ws=127.0.0.1:8008&port=5858 (Chrome)
+// - http://127.0.0.1:8008/?ws=127.0.0.1:8008&port=5858 (Chrome; Open first)
+// - http://127.0.0.1:3000/version (Any Browsers; After above one)
 //
 
 var http = require('http');
