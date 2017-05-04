@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "node-inspector": "^0.12.5"
+    "node-inspector": "^1.1.1"
   }
 }
